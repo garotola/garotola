@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Rafael Farias 🖐️
 
-- VULGO gAROTOLA 👦
-- VICIADO em codar 👨‍💻
-- Estudando Java ☕​
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eele_grt)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/gAROT1NH0)
 [![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FBrafael08)
