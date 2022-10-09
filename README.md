@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael Batista</h1>
+<h1 align="center">Hi 👋, I'm Rafael "Garotola" Batista</h1>
 <h3 align="center">A passionate backend developer from Brasil</h3>
 <img align="right" alt="Coding" width="400"  src="https://thumbs.dreamstime.com/b/male-as-software-developer-programmer-engaged-coding-server-side-framework-laptop-vector-illustration-young-man-sitting-205941777.jpg">
 
