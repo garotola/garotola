@@ -1,4 +1,4 @@
-<img alt="Banner Java" width="100%" src="https://www.p92.com/binaries/content/gallery/p92website/technologies/java-details.png">
+![image](https://user-images.githubusercontent.com/69163934/194857969-eb69ca03-d978-442e-9e4a-0a588781c4a7.png)"
 <h1 align="center">Hi 👋, I'm Rafael "Garotola" Batista</h1>
 <h3 align="center">A passionate backend developer from Brasil</h3>
 <img align="right" alt="Coding" width="400"  src="https://thumbs.dreamstime.com/b/male-as-software-developer-programmer-engaged-coding-server-side-framework-laptop-vector-illustration-young-man-sitting-205941777.jpg">
